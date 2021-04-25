@@ -1,2 +1,2 @@
-# Asgard-Revolution
+# AsgardRevolution
  Lineage II Interlude Emulator
