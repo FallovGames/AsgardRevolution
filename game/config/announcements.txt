@@ -1,7 +1,0 @@
-Welcome to the Asgard-Revolution TEST Server!
-Rates: x1 (Retail)
-FREE Items at Town of Giran.
-The Bosses re-spawn time: Epic 1h, Simple 1-2min.
-Player Commands: .menu .shop .buff .gk .votereward .sub .setlvl .class .boss
-Website: https://asgard-revolution.ru/
-Please report any bug/mistake on the forum page. Thank you!
