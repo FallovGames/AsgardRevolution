@@ -1608,12 +1608,29 @@
 	</spawn>
 	<spawn name="[rune17_2017_11]">
 		<mesh>
+			<vertex x="24767" y="-12441" minz="-3476" maxz="-2676" />
+			<vertex x="24767" y="-12441" minz="-3476" maxz="-2676" />
+			<vertex x="24767" y="-12441" minz="-3476" maxz="-2676" />
+		</mesh>
+		<npc id="22215" count="1" respawn="500" respawn_rand="100" />
+		<!-- [rhamphorhynchus]	pos=anywhere	total=1	respawn=500sec	respawn_rand=100sec -->
+	</spawn>
+		<spawn name="[rune17_2017_11]">
+		<mesh>
 			<!-- [rune17_2017_11]	{{22324;-21104;-2900;-2200};{22900;-22240;-2900;-2200};{23676;-22336;-2900;-2200};{24888;-20916;-2900;-2200};{22584;-18716;-2900;-2200}} -->
-			<vertex x="22324" y="-21104" minz="-2900" maxz="-2200" />
-			<vertex x="22900" y="-22240" minz="-2900" maxz="-2200" />
-			<vertex x="23676" y="-22336" minz="-2900" maxz="-2200" />
-			<vertex x="24888" y="-20916" minz="-2900" maxz="-2200" />
-			<vertex x="22584" y="-18716" minz="-2900" maxz="-2200" />
+			<vertex x="28263" y="-17486" minz="-3476" maxz="-2676" />
+			<vertex x="28263" y="-17486" minz="-3476" maxz="-2676" />
+			<vertex x="28263" y="-17486" minz="-3476" maxz="-2676" />
+		</mesh>
+		<npc id="22215" count="1" respawn="500" respawn_rand="100" />
+		<!-- [rhamphorhynchus]	pos=anywhere	total=1	respawn=500sec	respawn_rand=100sec -->
+	</spawn>
+		<spawn name="[rune17_2017_11]">
+		<mesh>
+			<!-- [rune17_2017_11]	{{22324;-21104;-2900;-2200};{22900;-22240;-2900;-2200};{23676;-22336;-2900;-2200};{24888;-20916;-2900;-2200};{22584;-18716;-2900;-2200}} -->
+			<vertex x="18229" y="-17975" minz="-3476" maxz="-2676" />
+			<vertex x="18229" y="-17975" minz="-3476" maxz="-2676" />
+			<vertex x="18229" y="-17975" minz="-3476" maxz="-2676" />
 		</mesh>
 		<npc id="22215" count="1" respawn="500" respawn_rand="100" />
 		<!-- [rhamphorhynchus]	pos=anywhere	total=1	respawn=500sec	respawn_rand=100sec -->
@@ -1669,8 +1686,6 @@
 		<!-- [arachnoid]	pos=anywhere	total=1	respawn=300sec	respawn_rand=30sec -->
 		<npc id="18346" count="1" respawn="300" respawn_rand="30" />
 		<!-- [arachnoid_a]	pos=anywhere	total=1	respawn=300sec	respawn_rand=30sec -->
-		<npc id="22215" count="1" respawn="500" respawn_rand="100" />
-		<!-- [tyrannosaurus]	pos=anywhere	total=1	respawn=500sec	respawn_rand=100sec -->
 		<npc id="18344" count="1" respawn="500" respawn_rand="100" />
 		<!-- [ancient_egg]	pos=anywhere	total=1	respawn=500sec	respawn_rand=100sec -->
 	</spawn>
@@ -1715,18 +1730,6 @@
 		</mesh>
 		<npc id="22224" count="1" respawn="150" respawn_rand="35" />
 		<!-- [ornithomimus_leader2]	pos=anywhere	total=1	respawn=150sec	respawn_rand=35sec	Privates=[ornithomimus:ornithomimus:1:0sec] -->
-	</spawn>
-	<spawn name="[rune17_2017_18]">
-		<mesh>
-			<!-- [rune17_2017_18]	{{23496;-18000;-2864;-2164};{28168;-18304;-2864;-2164};{29400;-17708;-2864;-2164};{29064;-16220;-2864;-2164};{24208;-16120;-2864;-2164}} -->
-			<vertex x="23496" y="-18000" minz="-2864" maxz="-2164" />
-			<vertex x="28168" y="-18304" minz="-2864" maxz="-2164" />
-			<vertex x="29400" y="-17708" minz="-2864" maxz="-2164" />
-			<vertex x="29064" y="-16220" minz="-2864" maxz="-2164" />
-			<vertex x="24208" y="-16120" minz="-2864" maxz="-2164" />
-		</mesh>
-		<npc id="22215" count="1" respawn="500" respawn_rand="100" />
-		<!-- [tyrannosaurus]	pos=anywhere	total=1	respawn=500sec	respawn_rand=100sec -->
 	</spawn>
 	<spawn name="[rune17_2017_19]">
 		<mesh>
