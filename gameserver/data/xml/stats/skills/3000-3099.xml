@@ -1006,7 +1006,7 @@
 			<mul order="0x30" stat="pvpPhysDmgBonus" val="1.05"/>
 		</for>
 	</skill>
-	<skill id="3070" levels="3" name="Special Ability: Critical Stun">
+	<skill id="3070" levels="4" name="Special Ability: Critical Stun">
 		<table name="#activateRate">48 43 27 25</table>
 		<table name="#magicLevel">64 67 70 80</table>
 		<set name="levelModifier" val="1"/>
